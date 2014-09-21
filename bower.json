@@ -1,0 +1,20 @@
+{
+  "name": "offline-mobile-html5-demo",
+  "version": "0.0.1",
+  "author": "Marcin Bunsch <marcin.bunsch@gmail.com>",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "vendor",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "zepto": "1.1.4",
+    "momentjs": "2.8.3",
+    "normalize-css": "2.1.3"
+  },
+  "overrides": {}
+}

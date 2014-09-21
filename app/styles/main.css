@@ -1,0 +1,15 @@
+.time {
+  text-align: center;
+  font-size: 3em;
+  height: 1em;
+  position: absolute;
+  top: 50%;
+  width: 100%;
+  margin-top: -0.5em;
+}
+
+.help {
+  color: #ccc;
+  font-size: 0.25em;
+}
+
