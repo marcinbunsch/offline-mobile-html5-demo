@@ -1,0 +1,20 @@
+CACHE MANIFEST
+# 8fb151ce672ecf34a44dd3be29010e34548ee8d7
+
+NETWORK:
+*
+
+FALLBACK:
+
+
+CACHE:
+./css/styles.css
+./icons/logo.120.png
+./icons/logo.128.png
+./icons/logo.152.png
+./icons/logo.180.png
+./icons/logo.192.png
+./icons/logo.76.png
+./icons/logo.png
+./index.html
+./js/app.js
