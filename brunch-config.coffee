@@ -10,6 +10,8 @@ exports.config =
       order:
         before: [
           /^bower_components\//
+          /vendor\/zepto.detect.js/
+          /vendor\/zepto.touch.js/
           /vendor/
           /app/
         ]

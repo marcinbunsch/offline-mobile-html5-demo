@@ -30,6 +30,5 @@ function showTime() {
 showTime()
 setInterval(showTime, 1000)
 
-CLICK = ($.os.phone || $.os.tablet) ? 'tap' : 'click'
-$(document).on(CLICK, Config.toggle)
+$(document).tapClick(Config.toggle)
 
